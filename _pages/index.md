@@ -12,7 +12,9 @@ permalink: /
 </p>
 
 I'm Joe Kaczmarski. You can find more about me here: [[About]]
-![My helpful screenshot](/assets/jk_profile.png)
+
+![My helpful screenshot](../assets/jk_profile.png)  
+
 I'm a protein engineer, structural biologist and traveller.
 
 This is my digital garden, which contains notes that I will be tending over time.
