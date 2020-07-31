@@ -2,7 +2,7 @@
 title: A note about cats
 ---
 
-This is a second note with a poem with cats. 
+This is a second note with a poem with cats.
 
 > I like my pillow, my fancy bed,
 >
