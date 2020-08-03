@@ -17,6 +17,8 @@ permalink: /about
 
 - I'm a traveller and lover of the outdoors (see my other blog, [Tasmanian Traveller](tasmaniantraveller.com)).    
 
+---
+
 
 
 <br/><br/>
