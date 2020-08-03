@@ -1,0 +1,824 @@
+s/scss.rb:190:in `rescue in convert'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-sass-converter-2.1.0/lib/jekyll/converters/scss.rb:182:in `convert'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/filters.rb:52:in `scssify'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/strainer.rb:56:in `invoke'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/context.rb:86:in `invoke'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/variable.rb:84:in `block in render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/variable.rb:82:in `each'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/variable.rb:82:in `inject'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/variable.rb:82:in `render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/block_body.rb:103:in `render_node_to_output'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/block_body.rb:80:in `render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/template.rb:208:in `block in render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/template.rb:242:in `with_profiling'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/template.rb:207:in `render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/template.rb:220:in `render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:35:in `block (3 levels) in render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:49:in `measure_counts'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:34:in `block (2 levels) in render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:53:in `measure_bytes'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:33:in `block in render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:60:in `measure_time'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:32:in `render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/tags/include.rb:125:in `block in render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/context.rb:123:in `stack'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/tags/include.rb:122:in `render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/block_body.rb:103:in `render_node_to_output'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/block_body.rb:91:in `render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/template.rb:208:in `block in render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/template.rb:242:in `with_profiling'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/template.rb:207:in `render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/template.rb:220:in `render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:35:in `block (3 levels) in render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:49:in `measure_counts'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:34:in `block (2 levels) in render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:53:in `measure_bytes'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:33:in `block in render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:60:in `measure_time'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:32:in `render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/renderer.rb:127:in `render_liquid'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/renderer.rb:196:in `render_layout'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/renderer.rb:159:in `place_in_layouts'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/renderer.rb:89:in `render_document'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/renderer.rb:63:in `run'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/site.rb:523:in `render_regenerated'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/site.rb:509:in `block (2 levels) in render_docs'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/site.rb:508:in `each'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/site.rb:508:in `block in render_docs'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/site.rb:507:in `each_value'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/site.rb:507:in `render_docs'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/site.rb:201:in `render'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/site.rb:76:in `process'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/command.rb:28:in `process_site'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/commands/build.rb:65:in `build'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/commands/build.rb:36:in `process'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/command.rb:89:in `block in process_with_graceful_fail'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/command.rb:89:in `each'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/command.rb:89:in `process_with_graceful_fail'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/commands/serve.rb:86:in `block (2 levels) in init_with_program'
+  /Library/Ruby/Gems/2.6.0/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `block in execute'
+  /Library/Ruby/Gems/2.6.0/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `each'
+  /Library/Ruby/Gems/2.6.0/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `execute'
+  /Library/Ruby/Gems/2.6.0/gems/mercenary-0.3.6/lib/mercenary/program.rb:42:in `go'
+  /Library/Ruby/Gems/2.6.0/gems/mercenary-0.3.6/lib/mercenary.rb:19:in `program'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/exe/jekyll:15:in `<top (required)>'
+  /usr/local/bin/jekyll:23:in `load'
+  /usr/local/bin/jekyll:23:in `<top (required)>'
+➜  my-digital-garden git:(master) ✗ cd _sass
+➜  _sass git:(master) ✗ ls
+_boostrap-social.scss _normalize.scss
+_code.scss            _style.scss
+➜  _sass git:(master) ✗ mv _boostrap-social.scss _bootstrap-social.scss
+➜  _sass git:(master) ✗ cd ../
+➜  my-digital-garden git:(master) ✗ ls
+404.html     LICENSE      _includes    _pages       _site
+Gemfile      README.md    _layouts     _plugins     assets
+Gemfile.lock _config.yml  _notes       _sass
+➜  my-digital-garden git:(master) ✗ bundle exec jekyll serve --trace
+Configuration file: /Users/jkaczmarski/my-digital-garden/_config.yml
+            Source: /Users/jkaczmarski/my-digital-garden
+       Destination: /Users/jkaczmarski/my-digital-garden/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+                    done in 0.42 seconds.
+ Auto-regeneration: enabled for '/Users/jkaczmarski/my-digital-garden'
+    Server address: http://127.0.0.1:4000
+  Server running... press ctrl-c to stop.
+^X^C%                                                                           ➜  my-digital-garden git:(master) ✗ cd _sass
+➜  _sass git:(master) ✗ ls
+_bootstrap-social.scss _normalize.scss
+_code.scss             _style.scss
+➜  _sass git:(master) ✗ mv _bootstrap-social.scss _bootstrap-social.css
+➜  _sass git:(master) ✗  mv _bootstrap-social.scss _bootstrap-social.css
+➜  _sass git:(master) ✗ cd ..
+➜  my-digital-garden git:(master) ✗ bundle exec jekyll serve --trace
+Configuration file: /Users/jkaczmarski/my-digital-garden/_config.yml
+            Source: /Users/jkaczmarski/my-digital-garden
+       Destination: /Users/jkaczmarski/my-digital-garden/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+                    done in 0.421 seconds.
+ Auto-regeneration: enabled for '/Users/jkaczmarski/my-digital-garden'
+    Server address: http://127.0.0.1:4000
+  Server running... press ctrl-c to stop.
+^X^C%                                                                           ➜  my-digital-garden git:(master) ✗ cd _sass
+➜  _sass git:(master) ✗ ls
+_bootstrap-social.css _normalize.scss
+_code.scss            _style.scss
+<head>
+<head>
+  {% capture styles %}
+  {% include main.scss %}
+  {% endcapture %}
+  <style>
+    {{ styles | scssify }}
+➜  _sass git:(master) ✗ ls
+_bootstrap-social.css _normalize.scss
+_code.scss            _style.scss
+➜  _sass git:(master) ✗ cd ../
+➜  my-digital-garden git:(master) ✗ ls
+404.html     LICENSE      _includes    _pages       _site
+Gemfile      README.md    _layouts     _plugins     assets
+Gemfile.lock _config.yml  _notes       _sass
+<ul class="list-inline text-center footer-links">
+
+{%- if site.social-network-links.rss -%}
+  <li class="list-inline-item">
+    <a href="{{ '/feed.xml' | relative_url }}" title="RSS">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">RSS</span>
+    </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.email -%}
+  <li class="list-inline-item">
+    <a href="mailto:{{ site.social-network-links.email }}" title="Email me">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Email me</span>
+   </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.calendly -%}
+  <li class="list-inline-item">
+    <a href="https://calendly.com/{{ site.social-network-links.calendly }}" title="Schedule a meeting with me">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-calendar-check fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Schedule a meeting with me</span>
+   </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.facebook -%}
+  <li class="list-inline-item">
+    <a href="https://www.facebook.com/{{ site.social-network-links.facebook }}" title="Facebook">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Facebook</span>
+   </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.telegram -%}
+  <li class="list-inline-item">
+    <a href="https://t.me/{{ site.social-network-links.telegram }}" title="Telegram">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-telegram-plane fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Telegram</span>
+    </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.github -%}
+  <li class="list-inline-item">
+    <a href="https://github.com/{{ site.social-network-links.github }}" title="GitHub">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">GitHub</span>
+   </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.twitter -%}
+  <li class="list-inline-item">
+    <a href="https://twitter.com/{{ site.social-network-links.twitter }}" title="Twitter">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Twitter</span>
+   </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.reddit -%}
+  <li class="list-inline-item">
+    <a href="https://reddit.com/u/{{ site.social-network-links.reddit }}" title="Reddit">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-reddit fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Reddit</span>
+   </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.linkedin -%}
+  <li class="list-inline-item">
+    <a href="https://linkedin.com/in/{{ site.social-network-links.linkedin }}" title="LinkedIn">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">LinkedIn</span>
+   </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.xing -%}
+  <li class="list-inline-item">
+    <a href="https://www.xing.com/profile/{{ site.social-network-links.xing }}" title="Xing">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-xing fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Xing</span>
+   </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.stackoverflow -%}
+  <li class="list-inline-item">
+    <a href="https://stackoverflow.com/users/{{ site.social-network-links.stackoverflow }}" title="StackOverflow">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-stack-overflow fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">StackOverflow</span>
+   </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.snapchat -%}
+  <li class="list-inline-item">
+    <a href="https://www.snapchat.com/add/{{ site.social-network-links.snapchat }}" title="Snapchat">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-snapchat-ghost fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Snapchat</span>
+   </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.instagram -%}
+  <li class="list-inline-item">
+    <a href="https://www.instagram.com/{{ site.social-network-links.instagram }}" title="Instagram">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Instagram</span>
+   </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.youtube -%}
+  <li class="list-inline-item">
+    <a href="https://www.youtube.com/{{ site.social-network-links.youtube }}" title="YouTube">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-youtube fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">YouTube</span>
+   </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.spotify -%}
+  <li class="list-inline-item">
+    <a href="https://open.spotify.com/user/{{ site.social-network-links.spotify }}" title="Spotify">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-spotify fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Spotify</span>
+   </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.telephone -%}
+  <li class="list-inline-item">
+    <a href="tel:{{ site.social-network-links.telephone }}" title="Phone">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-phone fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Phone</span>
+   </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.steam -%}
+  <li class="list-inline-item">
+    <a href="https://steamcommunity.com/id/{{ site.social-network-links.steam }}" title="Steam">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-steam fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Steam</span>
+   </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.twitch -%}
+  <li class="list-inline-item">
+    <a href="https://www.twitch.tv/{{ site.social-network-links.twitch }}" title="Twitch">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-twitch fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Twitch</span>
+   </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.yelp -%}
+  <li class="list-inline-item">
+    <a href="https://{{ site.social-network-links.yelp }}.yelp.com" title="Yelp">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-yelp fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Yelp</span>
+   </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.mastodon -%}
+  <li class="list-inline-item">
+    <a href="https://{{ site.social-network-links.mastodon }}" title="Mastodon">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-mastodon fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Mastodon</span>
+    </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.ORCID -%}
+ <li class="list-inline-item">
+   <a href="https://orcid.org/{{ site.social-network-links.ORCID }}" title="ORCI➜  my-digital-garden git:(master) ✗ cd _site
+➜  _site git:(master) ✗ ls
+404.html             consistency.html     robots.txt
+about.html           copy_post.html       sitemap.xml
+assets               index.html           your-first-note.html
+cats.html            my_publications.html
+➜  _site git:(master) ✗ cd _includes
+cd: no such file or directory: _includes
+➜  _site git:(master) ✗ cd ../_includes
+➜  _includes git:(master) ✗ ls
+_site                      nav.html
+footer.html                notes_graph.html
+head.html                  notes_graph.json
+link-previews.html         social-networks-links.html
+main.scss
+➜  _includes git:(master) ✗ less head.html
+➜  _includes git:(master) ✗ ls
+_site                      nav.html
+footer.html                notes_graph.html
+head.html                  notes_graph.json
+link-previews.html         social-networks-links.html
+main.scss
+➜  _includes git:(master) ✗ less main.scss
+➜  _includes git:(master) ✗ less social-networks-links.html
+➜  _includes git:(master) ✗ ls
+_site                      nav.html
+footer.html                notes_graph.html
+head.html                  notes_graph.json
+link-previews.html         social-networks-links.html
+main.scss
+➜  _includes git:(master) ✗ less nav.html
+➜  _includes git:(master) ✗ less head.html
+➜  _includes git:(master) ✗ cd ../assets
+➜  assets git:(master) ✗ ls
+image.jpg      jk_profile.png
+➜  assets git:(master) ✗ mkdir css
+➜  assets git:(master) ✗ cd css
+➜  css git:(master) ✗ mv ../../_sass/_bootstrap-social.css bootstrap-social.css
+➜  css git:(master) ✗ ls
+bootstrap-social.css
+➜  css git:(master) ✗ cd ../
+➜  assets git:(master) ✗ cd ../
+➜  my-digital-garden git:(master) ✗ ls
+404.html     LICENSE      _includes    _pages       _site
+Gemfile      README.md    _layouts     _plugins     assets
+Gemfile.lock _config.yml  _notes       _sass
+➜  my-digital-garden git:(master) ✗ cd _layouts
+➜  _layouts git:(master) ✗ ls
+default.html note.html    page.html
+➜  _layouts git:(master) ✗ emacs default.html
+➜  _layouts git:(master) ✗ cd ../../
+➜  ~ l;s
+total 504
+drwxr-xr-x+  76 jkaczmarski  staff   2.4K  2 Aug 16:19 .
+drwxr-xr-x    5 root         admin   160B 24 Jul 12:52 ..
+drwxr-xr-x    9 jkaczmarski  staff   288B 29 Jul 17:06 .CCP4
+drwxr-xr-x   11 jkaczmarski  staff   352B 25 Jul 09:30 .CCP4I2
+-rw-------    1 jkaczmarski  staff     4B 24 Jul 12:52 .CFUserTextEncoding
+-rw-r--r--@   1 jkaczmarski  staff    22K  2 Aug 15:11 .DS_Store
+drwx------    2 jkaczmarski  staff    64B  2 Aug 15:11 .Trash
+-rw-------    1 jkaczmarski  staff     0B 30 Jul 18:01 .Xauthority
+-rw-r--r--    1 root         staff    39B 24 Jul 18:12 .agree2ccp4v6
+drwxrwxrwx   12 jkaczmarski  staff   384B 25 Jul 12:51 .anydesk
+drwxr-xr-x   16 jkaczmarski  staff   512B  2 Aug 12:29 .atom
+-rw-------    1 jkaczmarski  staff   267B 24 Jul 19:00 .bash_history
+-rw-r--r--    1 root         staff   451B 24 Jul 15:45 .bash_profile
+drwxr-xr-x    5 jkaczmarski  staff   160B 24 Jul 17:32 .biojs_templates
+drwxr-xr-x    3 jkaczmarski  staff    96B 26 Jul 11:27 .bitnami
+drwxr-xr-x    3 jkaczmarski  staff    96B 31 Jul 14:02 .bundle
+drwxr-xr-x    3 jkaczmarski  staff    96B 24 Jul 18:50 .cache
+drwxrwsr-x    3 jkaczmarski  staff    96B 24 Jul 16:18 .conda
+-rw-r--r--    1 jkaczmarski  staff    95B 30 Jul 10:57 .condarc
+-rw-r--r--    1 jkaczmarski  staff     3B 30 Jul 10:56 .condarc~
+drwx------    3 jkaczmarski  staff    96B 24 Jul 19:31 .config
+drwxr-xr-x    2 jkaczmarski  staff    64B 24 Jul 18:51 .coot-preferences
+drwxr-xr-x   15 jkaczmarski  staff   480B 25 Jul 10:18 .dropbox
+drwx------    3 jkaczmarski  staff    96B 24 Jul 16:14 .emacs.d
+drwxr-xr-x    4 jkaczmarski  staff   128B 31 Jul 14:11 .gem
+-rw-r--r--    1 jkaczmarski  staff   223B 31 Jul 08:35 .gitconfig
+-rw-------    1 jkaczmarski  staff    73K 27 Jul 15:49 .identifiers.org.ids.json
+drwxr-xr-x    5 jkaczmarski  staff   160B 28 Jul 13:01 .ipython
+-rw-r--r--    1 jkaczmarski  staff   1.1K 27 Jul 15:49 .jalview_properties
+drwxr-xr-x    3 jkaczmarski  staff    96B 24 Jul 17:32 .jswingreader
+drwxr-xr-x    3 jkaczmarski  staff    96B 28 Jul 13:02 .jupyter
+drwx------    3 jkaczmarski  staff    96B 24 Jul 19:31 .local
+drwxrwxrwx    4 root         staff   128B 24 Jul 14:12 .newtek
+drwxr-xr-x   19 jkaczmarski  staff   608B 24 Jul 17:47 .oh-my-zsh
+drwxr-xr-x    3 jkaczmarski  staff    96B 30 Jul 09:17 .openjfx
+drwxr-x---    4 jkaczmarski  staff   128B 31 Jul 21:55 .pymol
+-rw-r--r--    1 jkaczmarski  staff   4.0K 26 Jul 11:16 .pymolrc
+-rw-r--r--@   1 jkaczmarski  staff   3.4K 26 Jul 10:19 .pymolrc~
+-rw-r--r--    1 jkaczmarski  staff    10B 24 Jul 17:20 .pymoltimestamp
+drwxr-xr-x    3 jkaczmarski  staff    96B 25 Jul 09:28 .qwebkit_idb
+drwx------    3 jkaczmarski  staff    96B 25 Jul 09:09 .ssh
+-rw-------    1 jkaczmarski  staff   848B  2 Aug 15:50 .viminfo
+drwxr-xr-x    8 jkaczmarski  staff   256B 28 Jul 09:09 .wine
+-rw-r--r--    1 jkaczmarski  staff    46K 31 Jul 14:50 .zcompdump-Joe’s MacBook Pro-5.7.1
+-rw-------    1 jkaczmarski  staff    22K  2 Aug 16:19 .zsh_history
+-rw-r--r--    1 jkaczmarski  staff   4.8K 31 Jul 14:49 .zshrc
+-rw-r--r--    1 jkaczmarski  staff   475B 24 Jul 16:14 .zshrc.pre-oh-my-zsh
+-rw-r--r--    1 jkaczmarski  staff   4.7K 30 Jul 12:57 .zshrc~
+-rw-r--r--    1 jkaczmarski  staff   505B 24 Jul 18:51 0-coot-history.py
+-rw-r--r--    1 jkaczmarski  staff   495B 24 Jul 18:51 0-coot-history.scm
+drwx------@   5 jkaczmarski  staff   160B 24 Jul 13:26 Applications
+drwxr-xr-x    3 jkaczmarski  staff    96B 25 Jul 09:30 CCP4I2_PROJECTS
+drwxr-xr-x    4 jkaczmarski  staff   128B 25 Jul 09:28 CCP4I2_TEST
+drwxrwxr-x@   5 jkaczmarski  staff   160B  2 Aug 11:46 Creative Cloud Files
+drwxr-xr-x   37 jkaczmarski  staff   1.2K 30 Jul 09:50 CytoscapeConfiguration
+drwx------@  14 jkaczmarski  staff   448B 31 Jul 21:56 Desktop
+drwx------+   9 jkaczmarski  staff   288B  2 Aug 12:28 Documents
+drwx------@  13 jkaczmarski  staff   416B 31 Jul 15:10 Downloads
+lrwxr-xr-x    1 jkaczmarski  staff    37B 25 Jul 10:18 Dropbox -> /Users/jkaczmarski/Dropbox (Personal)
+drwx------@   7 jkaczmarski  staff   224B 25 Jul 10:20 Dropbox (Bonus DB)
+drwx------@   5 jkaczmarski  staff   160B 24 Jul 20:14 Dropbox (Personal)
+drwx------@   8 jkaczmarski  staff   256B  2 Aug 11:46 Google_Drive
+drwxrwxr-x@   4 jkaczmarski  staff   128B 24 Jul 13:43 JAKadobe2020@gmail.com Creative Cloud Files
+drwx------+  77 jkaczmarski  staff   2.4K 29 Jul 17:58 Library
+drwx------+   8 jkaczmarski  staff   256B 31 Jul 10:01 Movies
+drwx------+  12 jkaczmarski  staff   384B 27 Jul 19:00 Music
+drwx------@  22 jkaczmarski  staff   704B  2 Aug 11:46 OneDrive - Australian National University
+drwx------+   6 jkaczmarski  staff   192B 31 Jul 10:01 Pictures
+drwxr-xr-x+   4 jkaczmarski  staff   128B 24 Jul 12:52 Public
+drwx------    7 jkaczmarski  staff   224B  2 Aug 11:46 cloudstor
+drwx------    4 jkaczmarski  staff   128B 24 Jul 15:48 iCloud Drive (Archive)
+drwxr-xr-x   21 jkaczmarski  staff   672B  2 Aug 15:23 my-digital-garden
+drwxr-xr-x    3 jkaczmarski  staff    96B 28 Jul 12:41 opt
+drwxr-xr-x   49 jkaczmarski  staff   1.5K 30 Jul 18:39 programs
+drwxr-xr-x@ 155 jkaczmarski  staff   4.8K 28 Jul 17:17 pymol
+drwxr-xr-x    4 jkaczmarski  staff   128B 31 Jul 21:55 test_transfer
+zsh: command not found: s
+➜  ~ cd my-digital-garden
+➜  my-digital-garden git:(master) ✗ bundle exec jekyll serve --trace
+Configuration file: /Users/jkaczmarski/my-digital-garden/_config.yml
+            Source: /Users/jkaczmarski/my-digital-garden
+       Destination: /Users/jkaczmarski/my-digital-garden/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+  Liquid Exception: Liquid error (/Users/jkaczmarski/my-digital-garden/_includes/head.html line 6): Error: File to import not found or unreadable: ../_sass/bootstrap-social. on line 2:3 of stdin >> @import "../_sass/bootstrap-social"; --^ included in /_layouts/default.html
+bundler: failed to load command: jekyll (/usr/local/bin/jekyll)
+Liquid::ArgumentError: Liquid error (/Users/jkaczmarski/my-digital-garden/_includes/head.html line 6): Error: File to import not found or unreadable: ../_sass/bootstrap-social.
+        on line 2:3 of stdin
+>>   @import "../_sass/bootstrap-social";
+
+   --^
+ included
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-sass-converter-2.1.0/lib/jekyll/converters/scss.rb:190:in `rescue in convert'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-sass-converter-2.1.0/lib/jekyll/converters/scss.rb:182:in `convert'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/filters.rb:52:in `scssify'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/strainer.rb:56:in `invoke'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/context.rb:86:in `invoke'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/variable.rb:84:in `block in render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/variable.rb:82:in `each'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/variable.rb:82:in `inject'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/variable.rb:82:in `render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/block_body.rb:103:in `render_node_to_output'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/block_body.rb:80:in `render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/template.rb:208:in `block in render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/template.rb:242:in `with_profiling'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/template.rb:207:in `render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/template.rb:220:in `render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:35:in `block (3 levels) in render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:49:in `measure_counts'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:34:in `block (2 levels) in render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:53:in `measure_bytes'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:33:in `block in render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:60:in `measure_time'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:32:in `render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/tags/include.rb:125:in `block in render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/context.rb:123:in `stack'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/tags/include.rb:122:in `render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/block_body.rb:103:in `render_node_to_output'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/block_body.rb:91:in `render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/template.rb:208:in `block in render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/template.rb:242:in `with_profiling'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/template.rb:207:in `render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/template.rb:220:in `render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:35:in `block (3 levels) in render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:49:in `measure_counts'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:34:in `block (2 levels) in render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:53:in `measure_bytes'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:33:in `block in render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:60:in `measure_time'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:32:in `render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/renderer.rb:127:in `render_liquid'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/renderer.rb:196:in `render_layout'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/renderer.rb:159:in `place_in_layouts'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/renderer.rb:89:in `render_document'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/renderer.rb:63:in `run'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/site.rb:523:in `render_regenerated'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/site.rb:509:in `block (2 levels) in render_docs'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/site.rb:508:in `each'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/site.rb:508:in `block in render_docs'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/site.rb:507:in `each_value'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/site.rb:507:in `render_docs'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/site.rb:201:in `render'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/site.rb:76:in `process'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/command.rb:28:in `process_site'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/commands/build.rb:65:in `build'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/commands/build.rb:36:in `process'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/command.rb:89:in `block in process_with_graceful_fail'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/command.rb:89:in `each'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/command.rb:89:in `process_with_graceful_fail'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/commands/serve.rb:86:in `block (2 levels) in init_with_program'
+  /Library/Ruby/Gems/2.6.0/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `block in execute'
+  /Library/Ruby/Gems/2.6.0/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `each'
+  /Library/Ruby/Gems/2.6.0/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `execute'
+  /Library/Ruby/Gems/2.6.0/gems/mercenary-0.3.6/lib/mercenary/program.rb:42:in `go'
+  /Library/Ruby/Gems/2.6.0/gems/mercenary-0.3.6/lib/mercenary.rb:19:in `program'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/exe/jekyll:15:in `<top (required)>'
+  /usr/local/bin/jekyll:23:in `load'
+  /usr/local/bin/jekyll:23:in `<top (required)>'
+➜  my-digital-garden git:(master) ✗ emacs _includes/head.html
+➜  my-digital-garden git:(master) ✗ emacs _includes/main.scss
+➜  my-digital-garden git:(master) ✗ bundle exec jekyll serve --trace
+Configuration file: /Users/jkaczmarski/my-digital-garden/_config.yml
+            Source: /Users/jkaczmarski/my-digital-garden
+       Destination: /Users/jkaczmarski/my-digital-garden/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+                    done in 0.352 seconds.
+ Auto-regeneration: enabled for '/Users/jkaczmarski/my-digital-garden'
+    Server address: http://127.0.0.1:4000
+  Server running... press ctrl-c to stop.
+^X^C%                                                                           ➜  my-digital-garden git:(master) ✗ ls
+404.html     LICENSE      _includes    _pages       _site
+Gemfile      README.md    _layouts     _plugins     assets
+Gemfile.lock _config.yml  _notes       _sass
+➜  my-digital-garden git:(master) ✗ publish
+[master 504e770] Update
+ 3 files changed, 7 insertions(+), 1 deletion(-)
+ rename {_sass => assets/css}/bootstrap-social.css (100%)
+Enumerating objects: 16, done.
+Counting objects: 100% (16/16), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (8/8), done.
+Writing objects: 100% (9/9), 898 bytes | 898.00 KiB/s, done.
+Total 9 (delta 4), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (4/4), completed with 4 local objects.
+To https://github.com/jkaczmarski/digital-garden-jekyll-template.git
+   9a3443a..504e770  master -> master
+➜  my-digital-garden git:(master) cd ../
+➜  ~ ls
+0-coot-history.py
+0-coot-history.scm
+Applications
+CCP4I2_PROJECTS
+CCP4I2_TEST
+Creative Cloud Files
+CytoscapeConfiguration
+Desktop
+Documents
+Downloads
+Dropbox
+Dropbox (Bonus DB)
+Dropbox (Personal)
+Google_Drive
+JAKadobe2020@gmail.com Creative Cloud Files
+Library
+Movies
+Music
+OneDrive - Australian National University
+Pictures
+Public
+cloudstor
+iCloud Drive (Archive)
+my-digital-garden
+opt
+programs
+pymol
+test_transfer
+➜  ~ cd my-digital-garden
+➜  my-digital-garden git:(master) cd _notes
+➜  _notes git:(master) ls
+_site               consistency.md      copy_post.md~       my_publications.md~
+cats.md             copy_post.md        my_publications.md  your-first-note.md
+➜  _notes git:(master) emacs cats.md
+➜  _notes git:(master) emacs your-first-note.md
+➜  _notes git:(master) cd ../_pages
+➜  _pages git:(master) ls
+about.md index.md
+➜  _pages git:(master) emacs index.md
+➜  _pages git:(master) cd ../_includes
+➜  _includes git:(master) ls
+_site                      nav.html
+footer.html                notes_graph.html
+head.html                  notes_graph.json
+link-previews.html         social-networks-links.html
+main.scss
+➜  _includes git:(master) emacs footer
+➜  _includes git:(master) emacs footer.html
+➜  _includes git:(master) ✗ emacs social-networks-links.html
+➜  _includes git:(master) ✗ ls
+#footer.html#                main.scss
+#social-networks-links.html# nav.html
+_site                        notes_graph.html
+footer.html                  notes_graph.json
+head.html                    social-networks-links.html
+link-previews.html
+➜  _includes git:(master) ✗ emacs head.html
+➜  _includes git:(master) ✗ emacs ../assets/css
+➜  _includes git:(master) ✗ cd ../assets/css
+➜  css git:(master) ✗ ls
+bootstrap-social.css
+➜  css git:(master) ✗ emacs bootstrap-social.css
+➜  css git:(master) ✗ atom bootstrap-social.css
+➜  css git:(master) ✗ cd ../../
+➜  my-digital-garden git:(master) ✗ ls
+404.html     LICENSE      _includes    _pages       _site
+Gemfile      README.md    _layouts     _plugins     assets
+Gemfile.lock _config.yml  _notes       _sass
+➜  my-digital-garden git:(master) ✗ cd _sass
+➜  _sass git:(master) ✗ emacs _bootstrap-social.scss
+➜  _sass git:(master) ✗ cd ../_includes
+➜  _includes git:(master) ✗ ls
+#footer.html#                main.scss
+#social-networks-links.html# nav.html
+_site                        notes_graph.html
+footer.html                  notes_graph.json
+head.html                    social-networks-links.html
+link-previews.html
+➜  _includes git:(master) ✗ emacs main.scss
+➜  _includes git:(master) ✗ cd ../
+➜  my-digital-garden git:(master) ✗ ls
+404.html     LICENSE      _includes    _pages       _site
+Gemfile      README.md    _layouts     _plugins     assets
+Gemfile.lock _config.yml  _notes       _sass
+➜  my-digital-garden git:(master) ✗ bundle exec jekyll serve --trace
+Configuration file: /Users/jkaczmarski/my-digital-garden/_config.yml
+            Source: /Users/jkaczmarski/my-digital-garden
+       Destination: /Users/jkaczmarski/my-digital-garden/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+  Liquid Exception: Liquid error (/Users/jkaczmarski/my-digital-garden/_includes/head.html line 6): Error: Invalid parent selector for "&:first-child": ".btn-social >" on line 2:11 of stdin >> &:first-child { --^ included in /_layouts/default.html
+bundler: failed to load command: jekyll (/usr/local/bin/jekyll)
+Liquid::ArgumentError: Liquid error (/Users/jkaczmarski/my-digital-garden/_includes/head.html line 6): Error: Invalid parent selector for "&:first-child": ".btn-social >"
+        on line 2:11 of stdin
+>> 		&:first-child {
+
+   --^
+ included
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-sass-converter-2.1.0/lib/jekyll/converters/scss.rb:190:in `rescue in convert'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-sass-converter-2.1.0/lib/jekyll/converters/scss.rb:182:in `convert'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/filters.rb:52:in `scssify'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/strainer.rb:56:in `invoke'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/context.rb:86:in `invoke'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/variable.rb:84:in `block in render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/variable.rb:82:in `each'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/variable.rb:82:in `inject'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/variable.rb:82:in `render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/block_body.rb:103:in `render_node_to_output'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/block_body.rb:80:in `render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/template.rb:208:in `block in render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/template.rb:242:in `with_profiling'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/template.rb:207:in `render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/template.rb:220:in `render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:35:in `block (3 levels) in render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:49:in `measure_counts'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:34:in `block (2 levels) in render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:53:in `measure_bytes'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:33:in `block in render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:60:in `measure_time'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:32:in `render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/tags/include.rb:125:in `block in render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/context.rb:123:in `stack'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/tags/include.rb:122:in `render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/block_body.rb:103:in `render_node_to_output'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/block_body.rb:91:in `render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/template.rb:208:in `block in render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/template.rb:242:in `with_profiling'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/template.rb:207:in `render'
+  /Library/Ruby/Gems/2.6.0/gems/liquid-4.0.3/lib/liquid/template.rb:220:in `render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:35:in `block (3 levels) in render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:49:in `measure_counts'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:34:in `block (2 levels) in render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:53:in `measure_bytes'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:33:in `block in render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:60:in `measure_time'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/liquid_renderer/file.rb:32:in `render!'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/renderer.rb:127:in `render_liquid'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/renderer.rb:196:in `render_layout'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/renderer.rb:159:in `place_in_layouts'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/renderer.rb:89:in `render_document'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/renderer.rb:63:in `run'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/site.rb:523:in `render_regenerated'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/site.rb:509:in `block (2 levels) in render_docs'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/site.rb:508:in `each'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/site.rb:508:in `block in render_docs'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/site.rb:507:in `each_value'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/site.rb:507:in `render_docs'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/site.rb:201:in `render'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/site.rb:76:in `process'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/command.rb:28:in `process_site'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/commands/build.rb:65:in `build'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/commands/build.rb:36:in `process'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/command.rb:89:in `block in process_with_graceful_fail'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/command.rb:89:in `each'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/command.rb:89:in `process_with_graceful_fail'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/lib/jekyll/commands/serve.rb:86:in `block (2 levels) in init_with_program'
+  /Library/Ruby/Gems/2.6.0/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `block in execute'
+  /Library/Ruby/Gems/2.6.0/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `each'
+  /Library/Ruby/Gems/2.6.0/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `execute'
+  /Library/Ruby/Gems/2.6.0/gems/mercenary-0.3.6/lib/mercenary/program.rb:42:in `go'
+  /Library/Ruby/Gems/2.6.0/gems/mercenary-0.3.6/lib/mercenary.rb:19:in `program'
+  /Library/Ruby/Gems/2.6.0/gems/jekyll-4.0.0/exe/jekyll:15:in `<top (required)>'
+  /usr/local/bin/jekyll:23:in `load'
+  /usr/local/bin/jekyll:23:in `<top (required)>'
+➜  my-digital-garden git:(master) ✗ cd
+➜  ~ ls
+0-coot-history.py
+0-coot-history.scm
+Applications
+CCP4I2_PROJECTS
+CCP4I2_TEST
+Creative Cloud Files
+CytoscapeConfiguration
+Desktop
+Documents
+Downloads
+Dropbox
+Dropbox (Bonus DB)
+Dropbox (Personal)
+Google_Drive
+JAKadobe2020@gmail.com Creative Cloud Files
+Library
+Movies
+Music
+OneDrive - Australian National University
+Pictures
+<head>
+  {% capture styles %}
+Public
+cloudstor
+iCloud Drive (Archive)
+File Edit Options Buffers Tools Help
+/*
+ * Social Buttons for Bootstrap
+ *
+ * Copyright 2013-2015 Panayiotis Lipiridis
+ * Licensed under the MIT License
+ *
+ * https://github.com/lipis/bootstrap-social
+ */
+.btn-social {
+        position: relative;
+        margin-bottom: 5px;
+        padding-left: 44px;
+        text-align: left;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        > {
+                &:first-child {
+                        position: absolute;
+                        left: 0;
+                        top: 0;
+                        bottom: 0;
+-UU-:----F1  _bootstrap-social.scss   Top L1     (SCSS) ------------------------
+Beginning of buffer

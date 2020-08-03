@@ -1,0 +1,79 @@
+{
+  "main": {
+    "id": "32ef7d890a1b9736",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e2766400c3ea843",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "unlinked phrases.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9412a5a4d8e40cc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "39600f691c218cc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45448c159938ce50",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2d337b84d9ea0068",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f900e7976171f42f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e3bca0a20eb3319",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b42e1d92281ad5a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "unlinked phrases.md",
+    "_pages/index.md",
+    "_pages/about.md"
+  ]
+}

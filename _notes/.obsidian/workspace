@@ -1,0 +1,79 @@
+{
+  "main": {
+    "id": "a377a90ece7f31a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f91e22d64894c35",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "science.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e53c2d9b8af5827f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff9ab0670ac5e034",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dca205258eff20d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1fe8a7551b7c4a5d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e669358413564afc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b171adc75e52e846",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a2ba0e634af1648",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "science.md",
+    "My Favourite Science Related Apps.md",
+    "your-first-note.md"
+  ]
+}

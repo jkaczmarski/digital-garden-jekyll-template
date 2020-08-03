@@ -1,7 +1,7 @@
 title:               Joe Kaczmarski's digital garden
 tagline:             science & life
 description:         science | life | writings
-author:              Joe A Kaczmarski
+author:              "Joe A Kaczmarski"
 avatar:              "/assets/img/JK_cropped_pic.jpg"
 round-avatar: true
 
@@ -31,7 +31,7 @@ social-network-links:
 #  mastodon: instance.url/@username
   ORCID: 0000-0001-8549-0122
   google-scholar: citations?user=CJ6W4UsAAAAJ&hl=en
-  
+
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
 url-pretty: "jkaczmarski.github.io"
@@ -76,7 +76,13 @@ footer-link-col: "#404040"
 # --- Comments --- #
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-disqus: "https-jkaczmarski-github-io"
+
+
+# Disqus Comments
+disqus:
+  # Leave shortname blank to disable comments site-wide.
+  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+  shortname: "https-jkaczmarski-github-io"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""
@@ -100,7 +106,7 @@ disqus: "https-jkaczmarski-github-io"
 #staticman:
 #  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
 #  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-#  endpoint   : # (optional) URL of your own deployment, with a trailing slash eg. https://<your-api>/v3/entry/github/ (will fallback to a public GitLab instance) 
+#  endpoint   : # (optional) URL of your own deployment, with a trailing slash eg. https://<your-api>/v3/entry/github/ (will fallback to a public GitLab instance)
 #  reCaptcha:
 #    siteKey  : # Use your own site key, you need to apply for one on Google
 #    secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
@@ -159,14 +165,15 @@ exclude:
   - screenshot.png
   - docs/
 
+url: "https://example.com" # the base hostname & protocol for your site
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-last-modified-at
-  
-  
-  
+
+
+
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
@@ -184,7 +191,7 @@ twitter:
 
 
 
-  
+
 # --- General options --- #
 
 # Select which social network share links to show in posts
@@ -230,6 +237,6 @@ defaults:
       path: "_notes/**/*.md"
     values:
       layout: "note"
-      
+
 gems:
 - jekyll-seo-tag
