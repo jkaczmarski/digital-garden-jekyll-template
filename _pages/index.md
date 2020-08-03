@@ -32,7 +32,7 @@ My digital garden is roughly divided into two main plots:
   <span style="font-weight: bold">🧗🏻‍ [[Life]]</span><br>
   Where I share my notes on things outside of the field of science (if there is such a thing??), including [[notes on books I have read]], [[my personal projects]], and other random goodies.<br><br>
   Here's a few of my favourite topics to write about:<br>  
-  &nbsp;&nbsp;&nbsp;&nbsp;- ✍️ [[Note-taking]]<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;- [[Note-taking]]<br>
   &nbsp;&nbsp;&nbsp;&nbsp;- [[Productivity]]<br>
   &nbsp;&nbsp;&nbsp;&nbsp;- [[My Projects]]<br>
 </p>

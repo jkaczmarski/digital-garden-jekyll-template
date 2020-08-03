@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "life.md",
+            "file": "science.md",
             "mode": "source"
           }
         }
@@ -83,10 +83,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "life.md",
     "science.md",
+    "your-first-note.md",
+    "life.md",
     "my-research-interests.md",
-    "my-publications.md",
-    "My Favourite Science Related Apps.md"
+    "my-publications.md"
   ]
 }

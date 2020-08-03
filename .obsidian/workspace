@@ -10,8 +10,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "unlinked phrases.md",
+            "file": "_notes/my-research-interests.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "20d43606ff850568",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_pages/about.md",
+            "mode": "preview"
           }
         }
       }
@@ -72,8 +83,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "unlinked phrases.md",
+    "_notes/my-research-interests.md",
     "_pages/index.md",
+    "_pages/contact.md",
+    "README.md",
     "_pages/about.md"
   ]
 }
