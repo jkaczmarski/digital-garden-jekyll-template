@@ -4,25 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0f91e22d64894c35",
+        "id": "b7afc35f25a1dee0",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "science.md",
+            "file": "digital-garden.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "b7afc35f25a1dee0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "science.md",
-            "mode": "preview"
           }
         }
       }
@@ -83,10 +72,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "digital-garden.md",
+    "My Favourite Science Related Apps.md",
     "science.md",
-    "your-first-note.md",
-    "life.md",
-    "my-research-interests.md",
-    "my-publications.md"
+    "kaczmarski.joe@gmail.com.md",
+    "Untitled.md"
   ]
 }

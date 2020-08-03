@@ -6,14 +6,27 @@
       {
         "id": "1e2766400c3ea843",
         "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "digital garden.md",
+            "mode": "source"
+          }
+        },
+        "group": "b8a6010533015fe9"
+      },
+      {
+        "id": "dfeb2f53fc16211e",
+        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/My Favourite Science Related Apps.md",
-            "mode": "source"
+            "file": "digital garden.md",
+            "mode": "preview"
           }
-        }
+        },
+        "group": "b8a6010533015fe9"
       },
       {
         "id": "20d43606ff850568",
@@ -83,10 +96,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_notes/My Favourite Science Related Apps.md",
+    "digital garden.md",
     "_pages/index.md",
-    "_pages/contact.md",
     "_pages/about.md",
-    "_notes/my-research-interests.md"
+    "_notes/My Favourite Science Related Apps.md",
+    "_pages/contact.md"
   ]
 }

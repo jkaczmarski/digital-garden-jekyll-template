@@ -4,7 +4,9 @@ title: About me
 permalink: /about
 ---
 
+
 ## Hi, I'm Joe.
+<img align="right" width="300" height="300" src="/assets/JK_profile.png">
 - I'm a **structural biologist** (I study the shape of protein molecules to understand how they work).  
 
 - I'm a **protein engineer** (I think about ways we can re-design protein molecules so that we can use them to do useful stuff).  
@@ -16,6 +18,8 @@ permalink: /about
 - I'm a traveller and lover of the outdoors (see my other blog, [Tasmanian Traveller](tasmaniantraveller.com)).    
 
 - And I'm really glad you're here.
+
+
 
 <br/><br/>
 ## My Background
