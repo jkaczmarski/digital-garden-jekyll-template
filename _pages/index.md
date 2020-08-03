@@ -37,10 +37,6 @@ My digital garden is roughly divided into two main plots:
   &nbsp;&nbsp;&nbsp;&nbsp;- [[My Projects]]<br>
 </p>
 
-<p>Here are all the notes in this garden, along with their links, visualised as a graph.</p>
-
-{% include notes_graph.html %}
-
 Want to start your own digital garden? 🌱 This digital garden was made thanks to the free, open-source template [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template). The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-w\
 ith-jekyll).
 

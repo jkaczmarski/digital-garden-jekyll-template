@@ -30,10 +30,19 @@ time {
 }
 
 footer {
+  border-top: 1px #EAEAEA solid;
+  margin-top: 3.125rem;
+  background-color: "#F5F5F5";
   margin: 2em 0;
   font-size: 0.8em;
-  color: mix($color-text, blue, 80%);
+  color: mix($color-text, white, 80%);
   padding-top: 1em;
+}
+
+footer .list-inline {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 1.875rem;
 }
 
 img {
