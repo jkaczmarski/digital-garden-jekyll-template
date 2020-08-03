@@ -4,11 +4,6 @@ title: About me
 permalink: /about
 ---
 
----
-layout: page
-title: About me
----
-
 ## Hi, I'm Joe.
 - I'm a **structural biologist** (I study the shape of protein molecules to understand how they work).  
 

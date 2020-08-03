@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/my-research-interests.md",
+            "file": "_pages/about.md",
             "mode": "source"
           }
         }
@@ -83,10 +83,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_pages/about.md",
     "_notes/my-research-interests.md",
     "_pages/index.md",
     "_pages/contact.md",
-    "README.md",
-    "_pages/about.md"
+    "README.md"
   ]
 }
