@@ -29,7 +29,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-  ORCID: 0000-0001-8549-0122
+  # ORCID: 0000-0001-8549-0122
   google-scholar: citations?user=CJ6W4UsAAAAJ&hl=en
 
 # How to display the link to your website in the footer
