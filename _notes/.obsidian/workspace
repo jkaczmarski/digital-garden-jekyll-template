@@ -10,8 +10,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "science.md",
+            "file": "life.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "b7afc35f25a1dee0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "science.md",
+            "mode": "preview"
           }
         }
       }
@@ -72,8 +83,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "life.md",
     "science.md",
-    "My Favourite Science Related Apps.md",
-    "your-first-note.md"
+    "my-research-interests.md",
+    "my-publications.md",
+    "My Favourite Science Related Apps.md"
   ]
 }

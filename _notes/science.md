@@ -15,5 +15,3 @@ Here's a list of [[My Publications]]
 Here's a list of [[My Research Interests]]
 
 Here's a list of [[My Favourite Science Related Apps]]
-
-dog dog dog 
