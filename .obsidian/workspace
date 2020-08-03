@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/index.md",
+            "file": "_notes/My Favourite Science Related Apps.md",
             "mode": "source"
           }
         }
@@ -83,10 +83,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_notes/My Favourite Science Related Apps.md",
     "_pages/index.md",
     "_pages/contact.md",
     "_pages/about.md",
-    "_notes/my-research-interests.md",
-    "README.md"
+    "_notes/my-research-interests.md"
   ]
 }
