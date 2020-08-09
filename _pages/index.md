@@ -14,7 +14,9 @@ permalink: /
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [[Contact]]<br>
 </p>
 
-🌱 Welcome to my [[digital garden]] - a space where, over the coming years, I plan to grow my thoughts and writings about life and science. Because my garden is continuously growing, you will likely find that some of the notes are only seedlings (the beginnings of ideas or pieces of writing), while others are more established. As you pass through my garden, you may even find some [[unlinked phrases]] - these are things I hope to write about soon, so please come back and check on their development later. Feel free to wander through my notes by following the links that are scattered throughout these pages or if, like me, you are more of a visual person, you can explore all my notes (and how they connect) using the knowledge graph at the bottom of this page. You can also see what is on the [[top of my mind at the moment]].  
+🌱 Welcome to my [[digital garden]] - a space where, over the coming years, I plan to grow my thoughts and writings about life and science. My garden has only just started, so you might want to come back later when there is more to see here.
+  
+Because my garden will be continuously growing, you will likely find that some of the notes are only seedlings (the beginnings of ideas or pieces of writing), while others are more established. As you pass through my garden, you may even find some [[unlinked phrases]] - these are things I hope to write about soon, so please come back and check on their development later. Feel free to wander through my notes by following the links that are scattered throughout these pages or if, like me, you are more of a visual person, you can explore all my notes (and how they connect) using the knowledge graph at the bottom of this page. You can also see what is on the [[top of my mind at the moment]].  
 
 My digital garden is roughly divided into two main plots:
 
