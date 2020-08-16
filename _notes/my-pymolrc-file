@@ -1,0 +1,22 @@
+---
+layout: note
+title: How I set up my pymolrc file
+---
+
+
+As a structural biologist and protein engineer, I spend a significant amount of time looking at protein structures on my computer. I use a number of different programs to view molecular structures depending on the task at hand (e.g. ChimeraX when [[using ISOLDE for low resolution structures]], Maestro when using the Schrodinger Suite, VMD when trying to get certain render styles or viewing MD trajectories), but my go-to program on a day-to-day basis is definitely PyMol. Because I spend so much time working in PyMol, there are certain ways that I like to set up the GUI, custom keyboard shortcuts I like to use, and python scripts that I run regularly. The day I discovered the .pymolrc file (where all these kinds of custom settings are stored) was a life-changing day.
+## What is the .pymolrc file, and how do I edit it?
+## My top 10 things that are in my .pymolrc file.
+### 1.
+### 2.
+### 3.
+### 4.
+### 5.
+### 6.
+### 7.
+### 8.
+### 9.
+### 10. A bit of encouragement
+Working as a research scientist, it is sometimes nice to get a bit of positive feedback every now and again. I have set up my PyMol to tell me how awesome I am at the end of the .pymolrc file.
+
+## What is in my current .pymolrc file?

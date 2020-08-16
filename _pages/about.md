@@ -15,15 +15,16 @@ permalink: /about
 
 - I'm a student and a teacher (I learn best through teaching).  
 
-- I'm a traveller and lover of the outdoors (see my other blog, [Tasmanian Traveller](tasmaniantraveller.com)).    
+- I'm a traveller and lover of the outdoors (see my other blog, [Tasmanian Traveller](https://tasmaniantraveller.com/)).    
 
 ---
 <br>
 ## My Background
-If you would like to see my full CV, please [email me](kaczmarski.joe@gmail.com).
+If you would like to see my full CV, please [email me](mailto:kaczmarski.joe@gmail.com).
 
 #### Current Position
 - **Research Scientist**, Australian National University, 2020 -
+    - working in the lab of [Prof. Colin Jackson](https://www.jacksonlabanu.com)
 
 #### Education
 - **Ph.D.**, Australian National University, 2020  
